@@ -1,0 +1,52 @@
+h1 {
+ color: red;
+  outline: 2px solid #000;
+  border: 3px solid #fff;
+  order-radius: 10px;
+  background: #fc0;
+ text-align: center
+}
+h2 {
+ color: blue;
+  outline: 2px solid #000;
+  border: 3px solid #fff;
+  order-radius: 10px;
+  background: #fc0;
+ text-align: center
+}
+p {
+	color: #3a0008;
+	font-size: 15px;
+  outline: 2px solid #000;
+  border: 3px solid #fff;
+  order-radius: 10px;
+  font-size: 20px;
+}
+li {
+	font-style: italic;
+}
+body { 
+ background: url(1.jpg); 
+}
+li {
+	font-size: 20px;
+}
+.center-pic {
+	display:block;
+	margin:auto;
+}
+.chapter {
+	font-weight: bold;
+}
+span.bold {
+	font-weight: bold;
+}
+ul.head {
+	position: fixed;
+  bottom: 15px;
+  right: 5px; 
+ outline: 2px solid #000;
+  border: 3px solid #fff;
+  order-radius: 10px;
+  background: #fc0;
+}
