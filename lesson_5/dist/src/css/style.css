@@ -14,22 +14,21 @@ h2 {
   background: #fc0;
  text-align: center
 }
-p {
-	color: #3a0008;
+div {
+color: #000000;
 	font-size: 15px;
   outline: 2px solid #000;
   border: 3px solid #fff;
   order-radius: 10px;
-  font-size: 20px;
+  background: #fff;
+font-size: 20px;
 }
 li {
 	font-style: italic;
+  font-size: 20px;
 }
 body { 
  background: url(1.jpg); 
-}
-li {
-	font-size: 20px;
 }
 .center-pic {
 	display:block;
@@ -37,6 +36,13 @@ li {
 }
 .chapter {
 	font-weight: bold;
+}
+.top {
+  outline: 2px solid #000;
+  border: 3px solid #fff;
+  order-radius: 10px;
+  background: #fc0;
+ font-weight: bold;
 }
 span.bold {
 	font-weight: bold;
@@ -49,4 +55,10 @@ ul.head {
   border: 3px solid #fff;
   order-radius: 10px;
   background: #fc0;
+}
+span.s {
+ text-decoration: line-through;
+}
+p {
+ text-indent: 20px;
 }
