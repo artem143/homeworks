@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+}
+.box {
+  background-color: #ffffff;
+  margin: 86px 95px ;
+  padding: 64px 48px;
+  padding-right: 93px;
+  width: 1010px;
+  height: 503px;
+  border: 1px solid #d7d7d7;
+}
+.left {
+ width: 376px;
+ height: 375px;
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+  border-left: 100px;
+}
+.right {
+  text-align: center;
+  vertical-align: middle;
+  display: table-cell;
+  text-align: left;
+  padding-left: 100px;
+}
+.basket {
+  background-color: #ec744a;
+  width: 252px;
+  height: 50px;
+  padding: 16px 39px;
+  font-size: 19px;
+  color: #ffffff;
+}
+.Name {
+  font-weight: bold;
+  font-size: 23px;
+}
+.check {
+  font-size: 30px;
+}
+.price {
+  font-size: 15px;
+}
+.description {
+  font-size: 15px;
+}
