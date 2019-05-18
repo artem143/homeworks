@@ -1,31 +1,23 @@
 * {
   box-sizing: border-box;
 }
+.body {
+  background-color: #f6f6f6;
+  font-family: Arial, sans-serif;
+}
 .box {
   background-color: #ffffff;
-  margin: 86px 95px ;
   padding: 64px 48px;
-  padding-right: 93px;
   width: 1010px;
   height: 503px;
   border: 1px solid #d7d7d7;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
   margin: auto;
 }
 .left {
- width: 376px;
- height: 375px;
-  text-align: center;
   vertical-align: middle;
   display: table-cell;
-  border-left: 100px;
 }
 .right {
-  text-align: center;
   vertical-align: middle;
   display: table-cell;
   text-align: left;
@@ -35,20 +27,23 @@
   background-color: #ec744a;
   width: 252px;
   height: 50px;
-  padding: 16px 39px;
   font-size: 19px;
   color: #ffffff;
+  border: 0;
 }
-.Name {
+.tatle {
   font-weight: bold;
   font-size: 23px;
 }
 .check {
   font-size: 30px;
+  margin-bottom: 41px;
+  margin-top: 23px;
 }
 .price {
   font-size: 15px;
 }
 .description {
   font-size: 15px;
+  margin-bottom: 55px;
 }
