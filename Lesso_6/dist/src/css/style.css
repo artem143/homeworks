@@ -13,6 +13,7 @@ body {
   height: 503px;
   border: 1px solid #d7d7d7;
   margin: auto;
+  text-align:center;
 }
 .left {
   display: inline-block;
