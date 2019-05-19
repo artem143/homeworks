@@ -18,10 +18,13 @@ div {
 }
 .block {
   display: flex;
-  justify-content: center;
-  width: auto;
+  justify-content: space-between;
   margin-top: 125px;
   text-align: center;
+  max-width: 1139px;
+  width: 96%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .center-pic {
   background-color: #ffffff;
@@ -43,4 +46,7 @@ div {
   height: 55px;
   background-color: #f9f9f9;
   text-transform: uppercase;
+}
+.element {
+  width: 33%;
 }
