@@ -7,22 +7,27 @@ body {
   margin-top: 86px;
 }
 .box {
+  display: flex;
+  justify-content: space-between;
   background-color: #ffffff;
   padding: 64px 48px;
-  width: 1010px;
+  max-width: 1010px;
+  width: 96%;
   height: 503px;
   border: 1px solid #d7d7d7;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   text-align:center;
 }
 .left {
   display: inline-block;
   vertical-align: middle;
   display: table-cell;
+  width: 50%;
 }
 .right {
   vertical-align: middle;
-  display: table-cell;
+  display: inline-block;
   text-align: left;
   padding-left: 100px;
 }
