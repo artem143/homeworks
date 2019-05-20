@@ -22,7 +22,6 @@ body {
 .left {
   display: inline-block;
   vertical-align: middle;
-  display: table-cell;
   width: 50%;
 }
 .right {
