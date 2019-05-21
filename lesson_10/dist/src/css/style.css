@@ -1,0 +1,14 @@
+body {
+	font-family: Tahoma;
+	color: #333333;
+}
+.text-center {
+	font-size: 24px;
+ font-weight: 700;
+ text-transform: uppercase;
+ height: 78px;
+}
+.row p{
+	font-size: 16px;
+ font-weight: 700;
+}
