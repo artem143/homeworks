@@ -1,14 +1,17 @@
 body {
-	font-family: Tahoma;
 	color: #333333;
+ font-family: Tahoma;
 }
-.text-center {
+.title {
 	font-size: 24px;
- font-weight: 700;
+	font-weight: 700;
  text-transform: uppercase;
- height: 78px;
+ text-align: center;
+ margin-top: 70px;
+ margin-bottom: 82px;
 }
-.row p{
+.description {
 	font-size: 16px;
+ text-align: center;
  font-weight: 700;
 }
