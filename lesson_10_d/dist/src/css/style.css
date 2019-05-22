@@ -15,7 +15,6 @@ body {
  text-align: center;
  font-weight: 700;
 }
-.d-flex {
- min-width: 82px;
- min-height: 77px;
+.row {
+	align-items:baseline ;
 }
